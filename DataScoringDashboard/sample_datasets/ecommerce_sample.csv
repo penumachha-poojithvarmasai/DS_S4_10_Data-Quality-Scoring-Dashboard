@@ -1,0 +1,11 @@
+product_id,category,price,rating,stock_qty
+P101,Electronics,299.99,4.5,50.0
+P102, Apparel,49.99,3.8,120.0
+P103,Home & Kitchen,15.5,4.2,300.0
+P104,Electronics,899.0,5.0,15.0
+P104,Electronics,899.0,5.0,15.0
+P105,Sports,120.0,4.0,80.0
+P106,Beauty,,4.8,45.0
+P107,Electronics,45.0,,200.0
+P108,Toys,19.99,3.5,
+P109,Books,15000.0,4.1,10.0

@@ -1,0 +1,11 @@
+customer_id,full_name,signup_date,age,income
+101, Alice Smith ,2023-01-15,25.0,55000.0
+102,Bob Jones,2023-02-20,34.0,62000.0
+103,Charlie Brown,03/15/2023,45.0,78000.0
+104,David Miller,2023-04-10,999.0,120000.0
+105,,2023-05-12,29.0,
+106,Frank Wright,invalid-date,31.0,48000.0
+107, Grace Lee ,2023-07-01,,85000.0
+108,Hannah Abbott,2023-08-15,42.0,91000.0
+108,Hannah Abbott,2023-08-15,42.0,91000.0
+110,Jack Daniels,2023-10-05,28.0,5000000.0

@@ -1,0 +1,11 @@
+patient_id,patient_name,diagnosis_code,systolic_bp,diastolic_bp,admission_date
+5001, John Doe,E11.9,120.0,80.0,2024-01-10
+5002,Jane Smith,I10,135.0,85.0,2024-01-12
+5003, Robert Paul,,140.0,90.0,2024-01-15
+5004,,J45.909,,82.0,2024-01-18
+5005,Mary Johnson,E11.9,118.0,,2024-01-20
+5006,James Wilson,,125.0,80.0,2024/01/22
+5007,Patricia Taylor,I10,130.0,84.0,2024-01-25
+5008,Linda Anderson,E11.9,290.0,180.0,2024-01-28
+5009,Barbara Thomas,J45.909,122.0,78.0,2024-02-01
+5010,Elizabeth Jackson,I10,115.0,75.0,2024-02-05
